@@ -18,9 +18,9 @@ The validation set of ILSVRC2012 is required for the scripts and most of the jup
 
 The list of selected images should be provided in a txt file (the list of 2000 randomly selected images used for the paper is provided by default in "images.txt") 
 
-The saliency maps can be either generated using the provided scripts or downloaded from the link https://polycam.ddns.net/npz.zip (Anonymous website for the review process) and are assumed by default to be in a folder named "npz". 
+The saliency maps can be either generated using the provided scripts or downloaded from the link https://polycam.ddns.net and are assumed by default to be in a folder named "npz". 
 
-The faithfulness measurements can be generated using the scripts or downloaded from https://polycam.ddns.net/csv.zip. The files are assumed by default to be in a folder named "csv". 
+The faithfulness measurements can be generated using the scripts or downloaded from https://polycam.ddns.net. The files are assumed by default to be in a folder named "csv". 
 
 Note that optional dependencies could be required for specific notebooks (mentioned at the beginning of the notebook if required), e.g., widget for a GUI interactive visualization 
 

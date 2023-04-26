@@ -5,6 +5,10 @@
 
 Implementation of the PolyCAM methods: PCAM+, PCAM- and PCAM+/- in pytorch.
 
+You can check our paper on ICPR: https://ieeexplore.ieee.org/abstract/document/9956711
+
+And the preprint version on arxiv: https://arxiv.org/abs/2204.13359
+
 Python scripts are provided to generate and evaluate the multiples saliency map computation methods (ours and previous methods). 
 
 Jupyter notebooks are provided to get visual feedback. 
